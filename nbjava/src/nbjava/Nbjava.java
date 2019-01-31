@@ -8,6 +8,7 @@ public class Nbjava {
        String s = "test";
        String sx = "test";
         int xx = 23;
+        int r=0;
     }
     
 }
